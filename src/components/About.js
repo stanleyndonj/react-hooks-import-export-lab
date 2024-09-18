@@ -1,6 +1,5 @@
 import React from "react";
 import { image } from "../data/user";
-
 function About() {
   return (
     <div id="about">
@@ -10,4 +9,5 @@ function About() {
     </div>
   );
 }
+
 export default About;
